@@ -15,4 +15,4 @@ This is how to continue
 
 ## Copyright
 
-Adding copy right info
+Adding copy right info here
